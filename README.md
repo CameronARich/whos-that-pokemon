@@ -1,0 +1,1 @@
+CSCI 450 (Computer Vision and Machine Learning) project by Cameron Rich and Zach Buhai

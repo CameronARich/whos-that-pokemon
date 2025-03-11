@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.DS_Store
+.vscode/
+.cursor/
+
+# Images
+*.png
+*.gif
+*.jpg
+*.jpeg
+*.webp
+*.svg
+*.ico
+*.bmp
+*.tiff

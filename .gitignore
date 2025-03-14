@@ -126,14 +126,3 @@ venv.bak/
 .DS_Store
 .vscode/
 .cursor/
-
-# Images
-*.png
-*.gif
-*.jpg
-*.jpeg
-*.webp
-*.svg
-*.ico
-*.bmp
-*.tiff
